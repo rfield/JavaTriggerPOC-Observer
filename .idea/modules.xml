@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-trigger-poc.iml" filepath="$PROJECT_DIR$/java-trigger-poc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/observer/observer.iml" filepath="$PROJECT_DIR$/modules/observer/observer.iml" />
+    </modules>
+  </component>
+</project>
+
